@@ -1,5 +1,5 @@
-public class Plan{
-	private int[] board;
+public class SpelPlan{
+		private int[] board;
 
 	public Plan(){
 		board = new int[9];
@@ -34,5 +34,5 @@ public class Plan{
 
 	}
 
+	
 }
-

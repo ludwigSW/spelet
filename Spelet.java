@@ -13,6 +13,16 @@ public class Spelet{
 
 		System.out.println(plan);
 
+		System.out.println("Spelar 1 börjar välja en ruta genom att skriva in ett tal mellan 1-9");
+
+		// Räkna omgångar
+
+		// Kolla nuvarande spelare med IF-statement, if(omgång är udda nr = spelare1 tur)
+
+		
+
+
+
 
 
 	}
